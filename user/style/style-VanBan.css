@@ -1,0 +1,24 @@
+.col-sm-7 > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.col-sm-7 > div > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.card-body > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.card-body > div > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}
+
+.card-body > div > h5 > div > h5 {
+  text-indent: 5%;
+  text-align: justify;
+}

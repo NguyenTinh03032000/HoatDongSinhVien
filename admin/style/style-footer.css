@@ -1,0 +1,17 @@
+.home-items {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-items1 {
+  text-align: left;
+}
+.footer-items2 {
+  text-align: left;
+  margin: auto;
+}
+.footer-items2 img {
+  width: 100px;
+}
+.footer-ul {
+  list-style: none;
+}

@@ -1,0 +1,20 @@
+:root {
+  --while-color: #fff;
+  --primary-color: #008080;
+  --second-color: #c1d7d7;
+}
+.bg-primary-all {
+  background-color: var(--primary-color);
+}
+.btn-primary-all {
+  color: var(--while-color);
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+.jumbotron1 {
+  background-color: var(--second-color);
+  /* background-image: linear-gradient(to bottom right, #1E90FF, #FFFFFF); */
+  padding: 4rem 2rem;
+  display: flex;
+  justify-content: center;
+}
